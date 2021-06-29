@@ -79,4 +79,10 @@ To use::
 
 Clone repo.  Npm install, npm run, open in browser and begin, if offline will transfer when back online.
 
-:: To use
+:: To use 
+
+:: Heroku deployment
+
+https://budgetpwatracker.herokuapp.com/
+
+::
