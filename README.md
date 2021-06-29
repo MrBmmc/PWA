@@ -73,3 +73,10 @@ THEN that will be shown on the page, and added to their transaction history when
 * Use [Google](https://www.google.com) or another search engine to research this topic.
 
 :: Objective
+
+
+To use::
+
+Clone repo.  Npm install, npm run, open in browser and begin, if offline will transfer when back online.
+
+:: To use
